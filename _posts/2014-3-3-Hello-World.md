@@ -11,4 +11,4 @@ title:
 ![ลิงค์เพิ่มเติม](http://www.siamliverpool.com/images/clubhistory/12.jpg)
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
-![ลิงค์เพิ่มเติม](https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B9%82%E0%B8%A1%E0%B8%AA%E0%B8%A3%E0%B8%9F%E0%B8%B8%E0%B8%95%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B8%B4%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%9E%E0%B8%B9%E0%B8%A5)
+![ลิงค์เพิ่มเติม](https://th.wikipedia.org/wiki/)
